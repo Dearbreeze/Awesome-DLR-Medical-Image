@@ -7,6 +7,7 @@
 
 ### arXiv papers
  - Left Ventricle Contouring in Cardiac Images Based on Deep Reinforcement Learning [[paper](https://arxiv.org/ftp/arxiv/papers/2106/2106.04127.pdf)]
+ - Deep reinforcement learning to detect brain lesions on MRI: a proof-of-concept application of reinforcement learning to medical images [[paper](https://arxiv.org/abs/2008.02708)]
 ### 2021
  - Deep-reinforcement-learning-based images segmentation for quantitative analysis of gold immunochromatographic strip (**Neurocomputing**)[[paper](https://www.sciencedirect.com/science/article/pii/S0925231220305385)]
 
