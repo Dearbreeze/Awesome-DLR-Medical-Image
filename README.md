@@ -1,4 +1,4 @@
-# Awesome-DLR-Medical-Image
+# Awesome-DLR-Image
 
 
 ## Papers
@@ -18,7 +18,10 @@
  - Sequential Conditional Reinforcement Learning for Simultaneous Vertebral Body Detection and Segmentation with Modeling the Spine Anatomy (**Medical Image Analysis**) [[paper](https://www.sciencedirect.com/science/article/pii/S1361841520302255)]
  - Multi‑step medical image segmentation based on reinforcement learning (**SPIE Medical Imaging2020**) [[paper](https://link.springer.com/content/pdf/10.1007/s12652-020-01905-3.pdf)]
  - Deep Q-CapsNet Reinforcement Learning Framework for Intrauterine Cavity Segmentation in TTTS Fetal Surgery Planning  (**IEEE Transactions on Medical Imaging**) [[paper](https://ieeexplore.ieee.org/abstract/document/9067025)]
+ - Attention by Selection: A Deep Selective Attention Approach to Breast Cancer Classification (**TMI**) [[paper](https://ieeexplore.ieee.org/document/8941117)]
 ### 2019
  - Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans (**PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8187667)]
+ - Adversarial Policy Gradient for Deep Learning Image Augmentation(**MICCIA2019**) [[paper](https://arxiv.org/abs/1909.04108)]
 ### Earlier year
  - Deep Reinforcement Learning for Active Breast Lesion Detection from DCE-MRI （**MICCIA2017**)[[paper](https://cs.adelaide.edu.au/~carneiro/publications/paper1111_miccai17_gabriel.pdf)]
+ - Deep Reinforcement Learning With Visual Attention for Vehicle Classification (**IEEE TRANSACTIONS ON COGNITIVE AND DEVELOPMENTAL SYSTEMS**) [[paper](https://ieeexplore.ieee.org/document/7580631)]
