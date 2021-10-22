@@ -30,6 +30,7 @@
  - Reinforced Active Learning for Image Segmentation (**ICLR2020**)[[paper](https://arxiv.org/abs/2002.06583v1)]
  - Multi‑step medical image segmentation based on reinforcement learning [[paper](https://link.springer.com/article/10.1007/s12652-020-01905-3)]
  - Deep reinforcement learning for robust emotional classification in facial expression recognition (**Knowledge-Based Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S0950705120304081?casa_token=8D8gfT9UZc0AAAAA:uzz2TYITUioUCjo1A-bJpdFJfaJdz-NboSWrOV_x3CJAVxGjT-pmtJwxMimxHZDrUN4tQveSpC1E)]
+ - PixelRL: Fully Convolutional Network With Reinforcement Learning for Image Processing (**TMM**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936404)] [[code](https://github.com/rfuruta/pixelRL)]
 
 ### 2019
  - Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans (**PAMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8187667)]
