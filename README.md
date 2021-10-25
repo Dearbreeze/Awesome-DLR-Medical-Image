@@ -25,7 +25,6 @@
  - Multi‑step medical image segmentation based on reinforcement learning (**SPIE Medical Imaging2020**) [[paper](https://link.springer.com/content/pdf/10.1007/s12652-020-01905-3.pdf)]
  - Deep Q-CapsNet Reinforcement Learning Framework for Intrauterine Cavity Segmentation in TTTS Fetal Surgery Planning  (**IEEE Transactions on Medical Imaging**) [[paper](https://ieeexplore.ieee.org/abstract/document/9067025)]
  - Attention by Selection: A Deep Selective Attention Approach to Breast Cancer Classification (**IEEE Transactions on Medical Imaging**) [[paper](https://ieeexplore.ieee.org/document/8941117)]
- - Image Classification by Reinforcement Learning with Two-State Q-Learning (**HICO-2021**)[[paper](https://arxiv.org/abs/2007.01298v3)]
  - Efficient Object Detection in Large Images Using Deep Reinforcement Learning (**WACV**)[[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.pdf)]
  - Reinforced Active Learning for Image Segmentation (**ICLR2020**)[[paper](https://arxiv.org/abs/2002.06583v1)]
  - Multi‑step medical image segmentation based on reinforcement learning [[paper](https://link.springer.com/article/10.1007/s12652-020-01905-3)]
