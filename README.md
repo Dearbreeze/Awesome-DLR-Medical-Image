@@ -1,4 +1,4 @@
-# Awesome-DLR-Medical-and-Natural-Image
+# Awesome-DLR-Medical-Image
 
 
 ## Papers
