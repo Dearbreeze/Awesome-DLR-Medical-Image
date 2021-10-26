@@ -28,7 +28,7 @@
  - Efficient Object Detection in Large Images Using Deep Reinforcement Learning (**WACV**)[[paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.pdf)]
  - Reinforced Active Learning for Image Segmentation (**ICLR2020**)[[paper](https://arxiv.org/abs/2002.06583v1)]
  - Multi‑step medical image segmentation based on reinforcement learning [[paper](https://link.springer.com/article/10.1007/s12652-020-01905-3)]
- - Deep reinforcement learning for robust emotional classification in facial expression recognition (**Knowledge-Based Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S0950705120304081?casa_token=8D8gfT9UZc0AAAAA:uzz2TYITUioUCjo1A-bJpdFJfaJdz-NboSWrOV_x3CJAVxGjT-pmtJwxMimxHZDrUN4tQveSpC1E)]
+ - Deep reinforcement learning for robust emotional classification in facial expression recognition (**Knowledge-Based Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S0950705120304081?casa_token=8D8gfT9UZc0AAAAA:uzz2TYITUioUCjo1A-bJpdFJfaJdz-NboSWrOV_x3CJAVxGjT-pmtJwxMimxHZDrUN4tQveSpC1E)] [[code](https://github.com/lhd777/RLPS)]
  - PixelRL: Fully Convolutional Network With Reinforcement Learning for Image Processing (**TMM**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936404)] [[code](https://github.com/rfuruta/pixelRL)]
 
 ### 2019
